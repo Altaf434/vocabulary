@@ -3,7 +3,8 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
+#Added .vscode to gitignore
+.vscode/
 # published
 docs/_redirects
 docs/specimen/
